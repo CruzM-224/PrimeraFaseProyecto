@@ -1,0 +1,40 @@
+Inventariado de una ferretería
+
+Tablas
+	Productos
+	Proveedores
+	Cliente
+	Ordenes
+	Entregas/Ingresos
+
+
+Campos
+Productos
+	Codigo de producto char(8)
+	Nombre de Producto varchar(255)
+	Descripcion de Producto varchar(255)
+	Cantidad del producto int
+	Precio del producto Double
+
+Proveedores
+	Codigo de proveedor char(8)
+	Nombre de proveedor varchar(255)
+	Descripción de productos que provee varchar(255)
+	Telefono char(8)
+	Direccion varchar(255)
+
+Cliente
+	Codigo de cliente char(8)
+	Nombre de cliente varchar(255)
+	Telefono char(8)
+	Dirección varchar(255)
+
+Ordenes
+	Codigo de cliente char(8)
+	Codigo de producto a retirar char(8)
+	Cantidad de producto a retirar int
+
+Entregas/Ingresos
+	Codigo de proveedor char(8)
+	Codigo de producto ingrasado char(8)
+	Cantidad de producto ingresado int
