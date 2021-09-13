@@ -1,5 +1,5 @@
 # PrimeraFaseProyecto
-Repositorio de la primera fase del proyecto.
+Repositorio de la primera fase del proyecto de un inventario de una ferretería que permita ver pedidos, ver los artículos disponibles con características como código, nombre, descripción, cantidades y precio y a su vez actualizarlos si han ingresado nuevos artículos o retirado por pedidos.
 
 POO Grupo teórico 05
 
