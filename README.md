@@ -1,6 +1,8 @@
 # PrimeraFaseProyecto
 Repositorio de la primera fase del proyecto.
 
+POO Grupo teórico 05
+
 Integrantes del proyecto:
 
 Alejandro Isaac Huezo Ascencio HA210358
